@@ -1,37 +1,35 @@
-# Data-Base-Project----Alfa-Construtor
+# Data-Base-Project----Alfa-Construtora
 
-# Projeto de Banco de Dados — Construtora Alfa
+## About the project
 
-## Sobre o projeto
+An academic project developed for the Database course at PUCRS, focusing on the modeling and implementation of a relational database for a fictional construction company.
 
-Projeto acadêmico desenvolvido na disciplina de Banco de Dados da PUCRS, com foco na modelagem e implementação de um banco de dados relacional para uma construtora fictícia.
+The work involved structuring data based on the proposed scenario, covering everything from database modeling to the creation and population of tables using SQL and Oracle.
 
-O trabalho envolveu a estruturação dos dados de acordo com o cenário proposto, passando pela modelagem do banco até a criação e população das tabelas utilizando SQL e Oracle.
+## Objectives
 
-## Objetivos
+- Apply relational database modeling concepts.
+- Structure entities, attributes, relationships, and integrity constraints.
+- Implement the database structure using SQL.
+- Insert data to represent the scenario defined in the project.
 
-- Aplicar conceitos de modelagem de bancos de dados relacionais.
-- Estruturar entidades, atributos, relacionamentos e restrições de integridade.
-- Implementar a estrutura do banco de dados utilizando SQL.
-- Inserir dados para representar o cenário definido no projeto.
+## Technologies and tools
 
-## Tecnologias e ferramentas
+- **SQL:** data creation and manipulation.
+- **Oracle Database / FreeSQL:** execution environment for SQL scripts.
+- **brModelo:** database modeling design.
 
-- **SQL:** criação e manipulação de dados.
-- **Oracle Database / FreeSQL:** ambiente de execução dos scripts SQL.
-- **brModelo:** elaboração da modelagem do banco de dados.
+## Stages completed
 
-## Etapas desenvolvidas
+1. Analysis of the scenario and requirements for Construtora Alfa.
+2. Development of conceptual and logical models.
+3. Creation of tables and definition of necessary constraints.
+4. Population of the database with sample records.
 
-1. Análise do cenário e dos requisitos da Construtora Alfa.
-2. Elaboração da modelagem conceitual e lógica.
-3. Criação das tabelas e definição das restrições necessárias.
-4. População do banco de dados com registros de exemplo.
+## Academic context
 
-## Contexto acadêmico
-
-Projeto desenvolvido como parte da graduação em Banco de Dados na Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS).
+Project developed as part of the undergraduate studies in Databases at the Pontifical Catholic University of Rio Grande do Sul (PUCRS).
 
 ---
 
-*Projeto acadêmico para fins de estudo e demonstração de conhecimentos em bancos de dados relacionais.*
+*Academic project for study purposes and to demonstrate knowledge of relational databases.*
