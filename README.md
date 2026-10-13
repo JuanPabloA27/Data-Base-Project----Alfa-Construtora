@@ -33,3 +33,7 @@ Project developed as part of the undergraduate studies in Databases at the Ponti
 ---
 
 *Academic project for study purposes and to demonstrate knowledge of relational databases.*
+
+## Author
+
+Juan Pablo Antunes Fraga
